@@ -1,4 +1,11 @@
-Notes for the Repo classb - Copy to class notes file after finished
+Notes for the Repo class - Copy to class notes file after finished
 
 Access the initial repo
 Create New File and name it whatever
+
+We can create a new branch
+  Click on the individual branch you want to edit
+  Click on the file you want to edit
+  Click on the pencil icon to edit the document
+  Add Commit to specific branch
+  
