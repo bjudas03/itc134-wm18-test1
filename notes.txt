@@ -9,3 +9,6 @@ We can create a new branch
   Click on the pencil icon to edit the document
   Add Commit to specific branch
   
+  Follow through with notations and commit
+  Confirm commit
+  
