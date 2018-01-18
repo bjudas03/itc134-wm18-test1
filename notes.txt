@@ -12,3 +12,4 @@ We can create a new branch
   Follow through with notations and commit
   Confirm commit
   
+//I'm adding this file to create a conflict//
