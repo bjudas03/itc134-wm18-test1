@@ -13,3 +13,7 @@ We can create a new branch
   Confirm commit
   
 //I'm adding this file to create a conflict//
+
+
+Adding this on local machine to test GitHub Desktop
+
